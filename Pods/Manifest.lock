@@ -1,0 +1,33 @@
+PODS:
+  - Alamofire (4.7.0)
+  - AlamofireImage (3.3.0):
+    - Alamofire (~> 4.5)
+  - DateToolsSwift (2.0.3)
+  - KeychainAccess (3.1.0)
+  - OAuthSwift (1.2.0)
+  - OAuthSwiftAlamofire (0.1.0):
+    - Alamofire
+    - OAuthSwift
+  - RSKPlaceholderTextView (3.0.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - AlamofireImage
+  - DateToolsSwift
+  - KeychainAccess
+  - OAuthSwift
+  - OAuthSwiftAlamofire
+  - RSKPlaceholderTextView
+
+SPEC CHECKSUMS:
+  Alamofire: 907e0a98eb68cdb7f9d1f541a563d6ac5dc77b25
+  AlamofireImage: 2e784dc5d00f04903a52c1d169181469c805c3df
+  DateToolsSwift: bf69bf9056d9e53c5c03f06e51f219b9b8b02f9e
+  KeychainAccess: 94c5540b32eabf7bc32bfb976a268e8ea05fd6da
+  OAuthSwift: 7fd6855b8e4d58eb5a30d156ea9bed7a8aecd1ca
+  OAuthSwiftAlamofire: 20bb998ac506f82c3bab0625fbc98a9c6fca783f
+  RSKPlaceholderTextView: 0ce73a19998e236323b3f1f16bf4a4e4a76c2c28
+
+PODFILE CHECKSUM: 56e5026fc5890a2b89a6bab26bfb0fd7c065504f
+
+COCOAPODS: 1.4.0
